@@ -9,9 +9,9 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+
 
 ![travel-website](/preview.png)
 =======
 # Responsive-Travel-Website
->>>>>>> ff46c24e37a9eb6ef45931883acab4469db462aa
+
